@@ -348,6 +348,10 @@ ul {
 
 .hero-badge-wrap {
   margin-bottom: 24px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
 }
 
 .hero-badge {
@@ -363,6 +367,12 @@ ul {
   padding: 6px 18px;
   border-radius: 40px;
   letter-spacing: 0.05em;
+}
+
+.hero-ai-badge {
+  background: rgba(189, 56, 43, 0.2);
+  border-color: rgba(246, 231, 193, 0.35);
+  color: #ffffff;
 }
 
 .badge-dot {

@@ -1,7 +1,15 @@
 # 浜名湖うなぎ 非公式紹介ガイド (Lake Hamana Eel Unofficial Web Guide)
 
-うなぎ養殖発祥の地・静岡県浜名湖が誇るうなぎ文化、120有余年の伝統、関東風と関西風の交差点、美味しさの秘密を解説する非公式Webサイトです。
-GitHub Pagesに対応した静的サイト（HTML / CSS / JavaScript）として設計されています。
+本Webサイトは、**Antigravity + Gemini 3.7 Flash** を活用して制作された、うなぎ養殖発祥の地・静岡県浜名湖のうなぎ文化、120有余年の伝統、東西の交差点、美味しさの秘密を解説する非公式Webサイトです。  
+Webサイト構築の技術検証およびポートフォリオ用として、GitHub Pagesに対応した静的サイト（HTML / CSS / JavaScript）として公開されています。
+
+---
+
+## 🤖 制作環境・テクノロジー
+- **開発支援エージェント**: Google DeepMind Antigravity
+- **使用モデル**: Gemini 3.7 Flash
+- **ホスティング環境**: GitHub Pages (GitHub Actions 自動デプロイ)
+- **フロントエンド構成**: HTML5 / Vanilla CSS (和モダン独自デザインシステム) / JavaScript (ES6)
 
 ---
 
